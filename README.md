@@ -1,6 +1,6 @@
 # Emergency Dispatch & Traffic Analysis
 
-This project analyzes a synthetic **Emergency Dispatch & Traffic Physics dataset** containing 200,000 traffic observations from 2022–2025. The goal was to explore traffic patterns, driver behavior, accident risk, and emergency response times.
+This project analyzes a synthetic **Emergency Dispatch & Traffic Physics dataset** containing 200,000 traffic observations from 2022–2025. The goal was to explore traffic patterns, driver behavior, accident risk, Environmental factors and emergency response times.
 
 ### What We Did
 - Cleaned and prepared the dataset using Python and Pandas.
